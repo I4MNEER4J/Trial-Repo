@@ -1,4 +1,4 @@
 # Trial-Repo
-I am just learning Nigga
+I am just learning
 <br>
 Admin : Skywalker
